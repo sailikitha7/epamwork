@@ -1,9 +1,7 @@
 "cse branch"
 "cse1 branch"
 "hello csebranch"
-<<<<<<< HEAD
 "CSEBRANCH"
-=======
 "ece branch"
 "hellocse"
->>>>>>> issue1
+may i get this
